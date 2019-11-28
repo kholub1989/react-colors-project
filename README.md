@@ -1,3 +1,16 @@
+# React Colors Project
+
+### A clone of websites like [Flat UI Colors](https://flatuicolors.com) and [Material UI Colors](http://materialuicolors.co/?utm_source=launchers).
+### Project from the Udemy course - The Modern React Bootcamp (Hooks, Context, NextJS, Router)
+
+![React Colors Project](https://i.ibb.co/Vq1XNJm/Screen-Shot-2019-11-28-at-11-33-39-AM.png)
+
+![React Colors Project](https://i.ibb.co/9T4LmM6/Screen-Shot-2019-11-28-at-11-33-57-AM.png)
+
+![React Colors Project](https://i.ibb.co/qBLZczR/Screen-Shot-2019-11-28-at-11-34-15-AM.png)
+
+![React Colors Project](https://i.ibb.co/n06Y7kF/Screen-Shot-2019-11-28-at-11-34-48-AM.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
